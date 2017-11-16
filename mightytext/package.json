@@ -1,0 +1,13 @@
+{
+  "id": "mightytext",
+  "name": "Mightytext",
+  "version": "1.0.1",
+  "description": "Mightytext",
+  "main": "index.js",
+  "author": "Neil Hanlon <neil@hanlon.ninja>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mightytext.net/app",
+    "hasNotificationSound": false
+  }
+}

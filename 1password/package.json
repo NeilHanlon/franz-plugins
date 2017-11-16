@@ -1,0 +1,15 @@
+{
+  "id": "onepassword",
+  "name": "1Password",
+  "version": "1.0.0",
+  "description": "1Password",
+  "main": "index.js",
+  "author": "Neil Hanlon <neil@hanlon.ninja>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://{teamId}.1password.com",
+    "hasNotificationSound": false,
+    "hasTeamId": true,
+    "urlInputSuffix": ".1password.com"
+  }
+}

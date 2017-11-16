@@ -1,0 +1,13 @@
+{
+  "id": "thelounge-custom",
+  "name": "TheLounge",
+  "version": "1.0.1",
+  "description": "TheLounge",
+  "main": "index.js",
+  "author": "Neil Hanlon <neil@hanlon.ninja>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://drop1.neilhanlon.me:9090/",
+    "hasNotificationSound": false
+  }
+}
