@@ -7,7 +7,7 @@
   "author": "Neil Hanlon <neil@hanlon.ninja>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://drop1.neilhanlon.me:9090/",
+    "serviceURL": "https://drop1.neilhanlon.me/irc/",
     "hasNotificationSound": false
   }
 }
